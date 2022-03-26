@@ -1,0 +1,57 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Harry Winston",
+        "price": "299",
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/harry-winston-1636410275.jpg"
+
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362jhs6",
+        "name": "Longines",
+        "price": "145",
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/longines-1636410346.jpg"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-4643jtrtd65",
+        "name": "Vacheron Constantin",
+        "price": "199",
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vacheron-1636411138.jpg"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-4643-kjkcx566",
+        "name": "Omega",
+        "price": "175",
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/omega-1636410953.jpg"
+    },
+    {
+        "id": "545433ll-2d54-4b2f-a74d-4643-kjkcx566",
+        "name": "MeisterSinger",
+        "price": "196",
+        "picture": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/meisersinger-1636411823.jpg"
+    },
+    {
+        "id": "apple123-2d54-4b2f-a74d-4643-kjkcx566",
+        "name": "Apple Watch SE",
+        "price": "340",
+        "picture": "https://cdn.mos.cms.futurecdn.net/ZF8pvKnEZKCVmR2cgwj9yB-970-80.jpg"
+    },
+    {
+        "id": "fitbit4464-2d54-4b2f-a74d-4643-kjkcx566",
+        "name": "Fitbit Sense",
+        "price": "170",
+        "picture": "https://cdn.mos.cms.futurecdn.net/o7twtcN6YVnvQy78hvyb9k-970-80.jpg"
+    },
+    {
+        "id": "samsung165-2d54-4b2f-a74d-4643-kjkcx566",
+        "name": "Samsung Galaxy Watch Active 2",
+        "price": "370",
+        "picture": "https://cdn.mos.cms.futurecdn.net/YNP39WPAaxp8yzqkTyshnW-970-80.jpg"
+    },
+    {
+        "id": "apple7842-2d54-4b2f-a74d-4643-464564654",
+        "name": "Apple Watch 7",
+        "price": "499",
+        "picture": "https://cdn.mos.cms.futurecdn.net/A3YUGyezUFpAscAxFmaXL7-970-80.jpg"
+    }
+]
