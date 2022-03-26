@@ -1,18 +1,4 @@
-/* .shop{
-    display: grid;
-    grid-template-columns: 4fr 1fr;
 
-    
-}
-.shop-container{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 45px;
-}
-.shop-container{
-    padding-left: 104px;
-    padding-top: 120px;
-} */
 .shop{
     display: grid;
     grid-template-columns: 4fr 1fr;
@@ -20,7 +6,9 @@
 .shop-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    padding-top: 100px;
-    margin-left: 40px;
+    grid-gap: 20px;
+}
+.shop-container{
+    padding-left: 104px;
+    padding-top: 120px;
 }
