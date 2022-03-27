@@ -1,6 +1,6 @@
 # Magic-Watches
 
-This project live site link [Create React App](https://glittering-cupcake-5a5731.netlify.app/).
+This project live site link [My site link](https://glittering-cupcake-5a5731.netlify.app/).
 
 ## Available Scripts
 

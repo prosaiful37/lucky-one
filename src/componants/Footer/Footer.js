@@ -5,6 +5,7 @@ const Footer = () => {
     return (
         <div className='footer'>
         <div className='questions'>
+            <h2>Question and Answer</h2>
             <details>
                 <summary>
                     How react work?
@@ -17,8 +18,7 @@ const Footer = () => {
                     <summary>
                         Props vs state deferance?
                     </summary>
-                    <p> Just aim to the red spots near his eyes</p>
-                    <p>Keep shooting at these spots until the eyes open, then hit quickly both eyes with your laser beam.</p>
+                    <p>Difference between props and state. The props are usually like a variable. The props can only be read. props can not be modified. On the other hand, the state is modified or  changed asynchronously. The user Can be changed state if He wants, or not. These are the differences between them.</p>
                 </details>
             </div>
             <div className='questions'>
@@ -26,7 +26,7 @@ const Footer = () => {
                     <summary>
                         How use state work?
                     </summary>
-                    <p>Keep shooting at these spots until the eyes open, then hit quickly both eyes with your laser beam.</p>
+                    <p>.</p>
                 </details>
             </div>
         </div>

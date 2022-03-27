@@ -6,14 +6,9 @@ import './Shop.css';
 const Shop = () => {
     const [products, setProducts] = useState([])
     const [carts, setCarts] = useState([])
-    console.log(carts);
-  
+
     const handleAddToCart = (product) => {
         const newCarts= [...carts, product];
-        
-        
-     
-        
         setCarts(newCarts);
        
     }
@@ -42,7 +37,7 @@ const Shop = () => {
                 {
                     carts.map(item => 
                     <h4 key={item.id}>{item.name}</h4>)
-                    
+                 
                 }
                 <button className='cartButton'>
                     Choose One For Me

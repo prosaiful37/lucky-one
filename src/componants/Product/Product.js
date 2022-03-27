@@ -19,7 +19,7 @@ const Product = (props) => {
                 <h4 className='Product-name'>{name}</h4>
                 <p>Price: ${price}</p>
             </div>
-            <button onClick={() => handleAddToCart(product)} className='cartBtn'>
+            <button onClick={() => handleAddToCart(product,  picture)} className='cartBtn'>
                 <p>Add To Cart</p> 
                 <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon>
             </button>

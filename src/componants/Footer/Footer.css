@@ -6,6 +6,12 @@
 .questions{
     margin: 10px;
 }
+.questions h2{
+   padding-bottom: 10px;
+   text-align: center;
+   font-size: 35px;
+   color: white;
+}
 details {
     width: 80%;
     margin: auto;
