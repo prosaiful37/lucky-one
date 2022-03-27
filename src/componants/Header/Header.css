@@ -32,8 +32,17 @@
         height: 80px;
         display: flex;
         align-items: center;
-        font-size: 15px;
+        padding-left: 20px;
+        padding-right: 0px;
         
+    }
+    .header h1{
+        font-size: 20px;
+        color: white;
+        text-align: center;
+    }
+    .header a{
+        display: none;
     }
     
   }

@@ -1,6 +1,6 @@
 # Magic-Watches
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project live site link [Create React App](https://glittering-cupcake-5a5731.netlify.app/).
 
 ## Available Scripts
 

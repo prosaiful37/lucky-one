@@ -34,3 +34,24 @@
     color: white;
     border:2px solid white;
 }
+
+
+/* css media query */
+@media screen and (max-width: 600px) {  
+
+.shop{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.shop-container{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 20px;
+}
+.shop-container{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+
+}

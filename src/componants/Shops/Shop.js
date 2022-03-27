@@ -10,14 +10,15 @@ const Shop = () => {
   
     const handleAddToCart = (product) => {
         const newCarts= [...carts, product];
-        if(newCarts > 4){
-            alert('enough your not select this item');
-        }
+        
+        
      
         
         setCarts(newCarts);
        
     }
+
+    
     useEffect(() => {
         fetch('products.json')
         .then(res => res.json())
@@ -39,7 +40,9 @@ const Shop = () => {
             <div className='cart-container'>
                 <h2>Selected Item</h2>
                 {
-                    carts.map(item => <h4 key={item.id}>{item.name} </h4>)
+                    carts.map(item => 
+                    <h4 key={item.id}>{item.name}</h4>)
+                    
                 }
                 <button className='cartButton'>
                     Choose One For Me
